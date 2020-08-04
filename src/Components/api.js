@@ -1,7 +1,7 @@
 import Axios from 'axios'
 
 export default Axios.create({
-    baseURL: 'https://pacific-headland-14360.herokuapp.com/'
+    baseURL: 'https://pensive-swartz-c0f698.netlify.app/'
     // baseURL: 'http://localhost:8000/'
 
 })
